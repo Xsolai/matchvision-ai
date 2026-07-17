@@ -1,0 +1,1 @@
+import type{MetadataRoute}from'next';export default function robots():MetadataRoute.Robots{return{rules:[{userAgent:'*',allow:['/','/pricing'],disallow:['/login','/signup','/forgot-password','/checkout','/onboarding','/app/']}],sitemap:'https://xsolai-matchvision-ai.vercel.app/sitemap.xml',host:'https://xsolai-matchvision-ai.vercel.app'}}

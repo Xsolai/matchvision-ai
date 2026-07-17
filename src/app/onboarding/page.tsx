@@ -1,0 +1,1 @@
+import type{Metadata}from'next';import{OnboardingPage}from'@/components/flows';export const metadata:Metadata={title:'Onboarding',robots:{index:false,follow:false}};export default function Page(){return <OnboardingPage/>}

@@ -1,0 +1,8 @@
+MatchVision AI
+© 2026 XsolAI. All rights reserved.
+Created by Ahsan Inam.
+
+This public repository is a frontend-only product demonstration. All footage,
+clubs, players, competitions, fixtures, events, tracking points, metrics, clips,
+reports, billing records, and operational data are fictional and simulated. No
+backend implementation or private project identifier is included.
