@@ -1,1 +1,1 @@
-import type{Metadata}from'next';import{CheckoutPage}from'@/components/flows';export const metadata:Metadata={title:'Demo checkout',robots:{index:false,follow:false}};export default function Page(){return <CheckoutPage/>}
+import type{Metadata}from'next';import{CheckoutPage}from'@/components/flows';export const metadata:Metadata={title:'Secure checkout',robots:{index:false,follow:false}};export default function Page(){return <CheckoutPage/>}

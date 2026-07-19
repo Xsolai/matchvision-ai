@@ -1,1 +1,1 @@
-import type{Metadata}from'next';import{AppShell}from'@/components/workspace';export const metadata:Metadata={title:'Workspace',robots:{index:false,follow:false}};export default function Layout({children}:{children:React.ReactNode}){return <AppShell>{children}</AppShell>}
+import type{Metadata}from'next';import{AppShell}from'@/components/workspace';export const metadata:Metadata={title:'workspace',robots:{index:false,follow:false}};export default function Layout({children}:{children:React.ReactNode}){return <AppShell>{children}</AppShell>}
